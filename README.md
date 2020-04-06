@@ -27,6 +27,9 @@ The following tools are required to build the extension:
 
 Once these tools are installed, run `./build_extension.sh`.
 
+## Install signed version
+Click [here](https://github.com/umbarry/firefox-amp-validator/raw/master/web-ext-artifacts/amp_validator-1.1.6-an%2Bfx.xpi) for download the signed file extension, then open Firefox and select 'Add-ons' from the menu. Click the gear and select "install add-on from file".
+
 ## Installing locally
 
 Once built this extension can be installed locally through Firfefox's [Debug mode](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)
